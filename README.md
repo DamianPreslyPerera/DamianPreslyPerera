@@ -1,4 +1,4 @@
-# 
+# [Hi, I'm Damian, an IT Professional](www.linkedin.com/in/damianpresly)
 
 ## 👨‍💻 Information Technology Projects:
 
