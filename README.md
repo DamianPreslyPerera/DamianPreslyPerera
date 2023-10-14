@@ -2,6 +2,9 @@
 
 ## 👨‍💻 Information Technology Projects:
 
+- **osTicket Help Desk Ticketing System**
+  - [osTicket: Prerequistes and Installation](https://github.com/DamianPreslyPerera/osTicket)
+
 - **Microsoft Azure**
   - [Azure Virtual Machine Creation](https://github.com/DamianPreslyPerera/Azure-Virtual-Machine)
   - [Azure Virtual Machines - Network Security Groups and Inspecting Traffic Between Azure Virtual Machines](https://github.com/DamianPreslyPerera/Azure-Network-Protocols)
